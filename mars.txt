@@ -3,3 +3,5 @@ Mars has two moons
 There is a lack of humidity
 Mars is next to Earth
 Here are the planets?
+This is a new change from GitHub
+Venus is hot
